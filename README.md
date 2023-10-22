@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/EHC-EMRAN-CYBER99/EHC-EMRAN-CYBER99/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+- 👨‍💻 All of my projects are available at [https://t.me/ehcehcemran0011223311cyber99/simplified_learner](https://t.me/ehcehcemran0011223311cyber99)
 
 - ⚡ Fun fact **I am funny😅**
 
