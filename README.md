@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-𝑬𝑯𝑪-𝑪𝒀𝑩𝑬𝑹-𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺𝑯(𝐄𝐌𝐑𝐀𝐍)
+(𝑬𝑯𝑪-𝑪𝒀𝑩𝑬𝑹-(𝐄𝐌𝐑𝐀𝐍)
 <h1 align="center">Hi 👋, I'm 𝐄𝐌𝐑𝐀𝐍</h1>
 <h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝑬𝑯𝑪 𝐄𝐌𝐑𝐀𝐍 </h3>
 
