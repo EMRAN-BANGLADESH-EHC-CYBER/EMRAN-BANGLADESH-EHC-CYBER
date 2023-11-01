@@ -9,6 +9,7 @@ ___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
 (__🐝𝑬𝑴𝑹𝑨𝑵🐝__)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+(__🐝𝑬𝑴𝑹𝑨𝑵🐝__)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 (__✏️𝐄𝐌𝐑𝐀𝐍✏️__)
 <h1 align="center">Hi 👋, I'm 𝐄𝐌𝐑𝐀𝐍</h1>
