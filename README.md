@@ -1,6 +1,10 @@
-(𝑾𝑶𝑹𝑲 𝑶𝑭 𝑷𝒀𝑻𝑯𝑶𝑵 𝑻𝑬𝑹𝑴𝑼𝑿 𝑳𝑰𝑵𝑼𝑿
-𝑱𝑨𝑽𝑨 𝑪++ 𝑷𝑯𝑷 𝑯𝑨𝑪𝑲𝑰𝑵𝑮 𝑲𝑰𝑵𝑮)
-
+________𝑵𝑨𝑴𝑬__𝑬𝑴𝑹𝑨𝑵_____
+________𝑭𝑹𝑶𝑴__𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑯_
+________𝑵𝑼𝑴𝑩𝑬𝑹 𝟗𝟕𝟏𝟎𝟓𝟔𝟗𝟓𝟒𝟗𝟖𝟓𝟕_
+________𝑰𝑴𝑶_𝟗𝟕𝟏𝟎𝟓𝟔𝟒𝟑𝟓𝟑𝟗𝟑𝟑_
+________𝑾𝑶𝑹𝑲__𝑷𝒀𝑻𝑯𝑶𝑵__
+________𝑬𝑯𝑪_𝑪𝒀𝑩𝑬𝑹_𝑯𝑨𝑪𝑲𝑰𝑵𝑮_
+________________________________
 ___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
 (__🐝𝑬𝑴𝑹𝑨𝑵🐝__)
@@ -42,29 +46,34 @@ ___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 ## 🔭Currently in love with:𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=61DAFB" alt="ts" title="Typescript" height="25" />
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/Nest%20JS-282C34?logo=nestjs&logoColor=61DAFB" alt="nest logo" title="Nest js" height="25" />
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 
 ## ⚡Core Skills:
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
-_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" alt="Flask logo" title="Flask" height="25" />
-_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />
-_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
-_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="SQL logo" title="MySQL" height="25" />
-_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=mongodb&logoColor=47A248" alt="Flutter" title="Flutter" height="25" />
-_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/Material%20UI-282C34?logo=mui&logoColor=1F51FF" alt="Material ui" title="Material ui" height="25" />
-_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/CSS-282C34?logo=C&logoColor=89CFF0" alt="css logo" title="CSS" height="25" />
-_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
+__🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀___
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=1F51FF" alt="Bootstrap" title="Bootstrap" height="25" />
