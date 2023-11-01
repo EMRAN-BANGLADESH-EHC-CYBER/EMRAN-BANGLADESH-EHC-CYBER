@@ -50,12 +50,21 @@ ___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
 
 ## ⚡Core Skills:
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
 <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
+_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
 <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" alt="Flask logo" title="Flask" height="25" />
+_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />
+_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
+_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="SQL logo" title="MySQL" height="25" />
+_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=mongodb&logoColor=47A248" alt="Flutter" title="Flutter" height="25" />
+_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
 <img src="https://img.shields.io/badge/Material%20UI-282C34?logo=mui&logoColor=1F51FF" alt="Material ui" title="Material ui" height="25" />
+_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
 <img src="https://img.shields.io/badge/CSS-282C34?logo=C&logoColor=89CFF0" alt="css logo" title="CSS" height="25" />
+_________🍀𝑬𝑴𝑹𝑨𝑵 𝑬𝑯𝑪 𝑪𝒀𝑩𝑬𝑹🍀_______
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=1F51FF" alt="Bootstrap" title="Bootstrap" height="25" />
