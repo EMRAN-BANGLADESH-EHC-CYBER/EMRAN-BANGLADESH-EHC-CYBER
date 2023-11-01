@@ -2,7 +2,7 @@
 𝑱𝑨𝑽𝑨 𝑪++ 𝑷𝑯𝑷 𝑯𝑨𝑪𝑲𝑰𝑵𝑮 𝑲𝑰𝑵𝑮
 ______🦋𝑩𝑶𝑺𝑺 𝑬𝑴𝑹𝑨𝑵🦋________
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
-(𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺𝑯-𝑬𝑯𝑪-𝑪𝒀𝑩𝑬𝑹-𝟗𝟗-𝑬𝑴𝑹𝑨𝑵)
+(-𝑬𝑯𝑪-𝑪𝒀𝑩𝑬𝑹-𝟗𝟗-𝑬𝑴𝑹𝑨𝑵)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 (𝑬𝑯𝑪-𝑪𝒀𝑩𝑬𝑹-(𝐄𝐌𝐑𝐀𝐍)
