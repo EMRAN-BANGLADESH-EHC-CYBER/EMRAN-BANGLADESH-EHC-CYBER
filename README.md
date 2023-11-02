@@ -7,7 +7,6 @@ ________𝑾𝑶𝑹𝑲__𝑷𝒀𝑻𝑯𝑶𝑵__
 ________𝑬𝑯𝑪_𝑪𝒀𝑩𝑬𝑹_𝑯𝑨𝑪𝑲𝑰𝑵𝑮_
 ________________________________
 ___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
 (__🐝𝑬𝑴𝑹𝑨𝑵🐝__)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 (__🐝𝑬𝑴𝑹𝑨𝑵🐝__)
