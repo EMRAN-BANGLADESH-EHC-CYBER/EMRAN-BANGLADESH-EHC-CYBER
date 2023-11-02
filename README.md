@@ -60,7 +60,6 @@ ___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center"> 
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EMRANEHC&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
