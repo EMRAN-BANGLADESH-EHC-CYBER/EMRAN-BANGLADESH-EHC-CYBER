@@ -8,8 +8,6 @@ ________𝑬𝑯𝑪_𝑪𝒀𝑩𝑬𝑹_𝑯𝑨𝑪𝑲𝑰𝑵𝑮_
 ________________________________
 ___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
-(__🐝𝑬𝑴𝑹𝑨𝑵🐝__)
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 (__✏️𝐄𝐌𝐑𝐀𝐍✏️__)
 <h1 align="center">Hi 👋, I'm 𝐄𝐌𝐑𝐀𝐍</h1>
 <h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝑬𝑯𝑪 𝐄𝐌𝐑𝐀𝐍 </h3>
