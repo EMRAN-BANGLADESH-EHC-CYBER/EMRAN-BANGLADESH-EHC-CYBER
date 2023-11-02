@@ -1,18 +1,12 @@
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-<img align="right" alt="coding" width="400px" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" >
 _____________𝑵𝑨𝑴𝑬__𝑬𝑴𝑹𝑨𝑵_____
 ________𝑭𝑹𝑶𝑴__𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑯_
 ________𝑵𝑼𝑴𝑩𝑬𝑹 𝟗𝟕𝟏𝟎𝟓𝟔𝟗𝟓𝟒𝟗𝟖𝟓𝟕_
 ________𝑰𝑴𝑶_𝟗𝟕𝟏𝟎𝟓𝟔𝟒𝟑𝟓𝟑𝟗𝟑𝟑_
 ________𝑾𝑶𝑹𝑲__𝑷𝒀𝑻𝑯𝑶𝑵__
 ________𝑬𝑯𝑪_𝑪𝒀𝑩𝑬𝑹_𝑯𝑨𝑪𝑲𝑰𝑵𝑮_
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 ________________________________
-___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
-(__🐝𝑬𝑴𝑹𝑨𝑵🐝__)
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-(__🐝𝑬𝑴𝑹𝑨𝑵🐝__)
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 (__✏️𝐄𝐌𝐑𝐀𝐍✏️__)
 <h1 align="center">Hi 👋, I'm 𝐄𝐌𝐑𝐀𝐍</h1>
 <h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝑬𝑯𝑪 𝐄𝐌𝐑𝐀𝐍 </h3>
