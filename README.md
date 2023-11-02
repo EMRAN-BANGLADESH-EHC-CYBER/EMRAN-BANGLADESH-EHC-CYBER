@@ -1,3 +1,4 @@
+<img align="right" alt="coding" width="400px" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" >
 _____________𝑵𝑨𝑴𝑬__𝑬𝑴𝑹𝑨𝑵_____
 ________𝑭𝑹𝑶𝑴__𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑯_
 ________𝑵𝑼𝑴𝑩𝑬𝑹 𝟗𝟕𝟏𝟎𝟓𝟔𝟗𝟓𝟒𝟗𝟖𝟓𝟕_
