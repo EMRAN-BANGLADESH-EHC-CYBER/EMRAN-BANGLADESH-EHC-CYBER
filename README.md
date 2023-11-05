@@ -169,22 +169,4 @@ ___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+EHC-EMRAN+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+EHC-EMRAN+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩+support+pabo+to)](https://git.io/typing-svg)
 <!-- Statistics -->
 
-![20200808_160757](https://raw.githubusercontent.com/EMRAN-EHC99-cyber/EMRAN-EHC99-cyber/main/Screenshot_20210201-204155_Termux.jpg)
-
 ![20200808_160757](https://raw.githubusercontent.com/EMRAN-EHC99-cyber/EMRAN-EHC99-cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=EMRAN-EHC99-cyber&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EMRAN-EHC99-cyber&layout=compact&theme=chartreuse-dark" />
-<p align="center"> 
-
-#Languages and Tools
-</p>
-
-</p>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EMRAN-EHC99-cyber&repo=HACKPRO&theme=chartreuse-dark" />
-<p align="center">
-<a href="https://github.com/EMRAN-EHC99-cyber/PROHACK"><img title="PROHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=EMRAN-EHC99-cyber&repo=PROHACK&theme=vision-friendly-dark"></a>
-<a href="https://github.com/EMRAN-EHC99-cyber/Number"><img title="NUMBER" src="https://github-readme-stats.vercel.app/api/pin/?username=EMRAN-EHC99-cyber&repo=Number&theme=vision-friendly-dark"></a>
-<a href="https://github.com/EMRAN-EHC99-cyber/PROHACK-FILE"><img title="PROHACK-FILE" src="https://github-readme-stats.vercel.app/api/pin/?username=EMRAN-EHC99-cyber&repo=PROHACK-FILE&theme=tokyonight"></a>
-</p>
