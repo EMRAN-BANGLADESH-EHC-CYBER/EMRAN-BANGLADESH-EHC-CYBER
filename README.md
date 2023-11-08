@@ -1,15 +1,4 @@
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+EHC-EMRAN+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+EHC-EMRAN+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩+support+pabo+to)](https://git.io/typing-svg)
-___𝑵𝑨𝑴𝑬__𝑬𝑴𝑹𝑨𝑵
-___𝑭𝑹𝑶𝑴__𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑯
-___𝑵𝑼𝑴𝑩𝑬𝑹 𝟗𝟕𝟏𝟎𝟓𝟔𝟗𝟓𝟒𝟗𝟖𝟓𝟕
-___𝑰𝑴𝑶_𝟗𝟕𝟏𝟎𝟓𝟔𝟒𝟑𝟓𝟑𝟗𝟑𝟑
-___𝑾𝑶𝑹𝑲__𝑷𝒀𝑻𝑯𝑶𝑵
-___𝑬𝑯𝑪_𝑪𝒀𝑩𝑬𝑹_𝑯𝑨𝑪𝑲𝑰𝑵𝑮_
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
