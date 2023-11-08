@@ -8,12 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 (__✏️𝐄𝐌𝐑𝐀𝐍✏️__)
 <h1 align="center">Hi 👋, I'm 𝐄𝐌𝐑𝐀𝐍</h1>
-<h3 align="center">A passionate Software Engineer from 𝑩𝑨𝑵𝑮𝑳𝑨𝑫𝑬𝑺 𝑬𝑯𝑪 𝐄𝐌𝐑𝐀𝐍 </h3>
-___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=𝐄𝐌𝐑𝐀𝐍-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="𝐄𝐌𝐑𝐀𝐍-pmishra" /> </p>
-
+<h3 align="center">A passionate 
 - 👨‍💻 All of my 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴-𝑪𝑨𝑳𝑳-𝑩𝑶𝑿 are available at [https://t.me/ehcehcemran0011223311cyber99/simplified_learner](https://t.me/ehcehcemran0011223311cyber99)
 ___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
 - ⚡ Fun fact **I am funny😅**
