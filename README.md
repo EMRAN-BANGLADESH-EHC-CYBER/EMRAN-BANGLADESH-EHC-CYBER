@@ -8,11 +8,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 (__✏️𝐄𝐌𝐑𝐀𝐍✏️__)
 <h1 align="center">Hi 👋, I'm 𝐄𝐌𝐑𝐀𝐍</h1>
-<h3 align="center">A passionate 
-- 👨‍💻 All of my 𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴-𝑪𝑨𝑳𝑳-𝑩𝑶𝑿 are available at [https://t.me/ehcehcemran0011223311cyber99/simplified_learner](https://t.me/ehcehcemran0011223311cyber99)
-___🦋(𝑬𝑴𝑹𝑨𝑵)🦋___
-- ⚡ Fun fact **I am funny😅**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/𝐄𝐌𝐑𝐀𝐍" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="𝐄𝐌𝐑𝐀𝐍" height="30" width="40" /></a>
