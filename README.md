@@ -10,6 +10,7 @@ ________𝑵𝑼𝑴𝑩𝑬𝑹 𝟗𝟕𝟏𝟎𝟓𝟔𝟗𝟓𝟒𝟗𝟖�
 ________𝑰𝑴𝑶_𝟗𝟕𝟏𝟎𝟓𝟔𝟒𝟑𝟓𝟑𝟗𝟑𝟑_
 ________𝑾𝑶𝑹𝑲__𝑷𝒀𝑻𝑯𝑶𝑵__
 ________𝑬𝑯𝑪_𝑪𝒀𝑩𝑬𝑹_𝑯𝑨𝑪𝑲𝑰𝑵𝑮_
+![20200808_160757](https://raw.githubusercontent.com/EhcCYBER-99/EhcCYBER-99/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
