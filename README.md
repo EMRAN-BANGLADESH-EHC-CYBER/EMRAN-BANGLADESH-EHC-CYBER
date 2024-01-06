@@ -1,3 +1,37 @@
+![](https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+ 
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/EhcCYBER-99/count.svg" />
+</p>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HELLO+FRIENDS;HOW+ARE+YOU+,DID+YOU+FOLLOW+MY+GITHUB+.+.+.+?;FOLLOW+MY+GITHUB)](https://git.io/typing-svg)
+## 🚶 Visit Me
+ 
+![20200808_160757](https://raw.githubusercontent.com/EhcCYBER-99/EhcCYBER-99/main/Screenshot_20210201-204155_Termux.jpg)
+ 
+![20200808_160757](https://raw.githubusercontent.com/EhcCYBER-99/EhcCYBER-99/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+ 
+![github stats](https://github-readme-stats.vercel.app/api?username=EhcCYBER-99&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
+ 
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EhcCYBER-99&layout=compact&theme=chartreuse-dark" />
+<p align="center"> 
+ 
+#Languages and Tools
+</p>
+ 
+</p>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EhcCYBER-99&repo=HACKPRO&theme=chartreuse-dark" />
+<p align="center">
+<a href="https://github.com/EhcCYBER-99/PROHACK"><img title="PROHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=EhcCYBER-99&repo=PROHACK&theme=vision-friendly-dark"></a>
+<a href="https://github.com/EhcCYBER-99/Number"><img title="NUMBER" src="https://github-readme-stats.vercel.app/api/pin/?username=EhcCYBER-99&repo=Number&theme=vision-friendly-dark"></a>
+<a href="https://github.com/EhcCYBER-99/PROHACK-FILE"><img title="PROHACK-FILE" src="https://github-readme-stats.vercel.app/api/pin/?username=EhcCYBER-99&repo=PROHACK-FILE&theme=tokyonight"></a>
+</p>
+ 
+ 
+ 
+ 
+
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
